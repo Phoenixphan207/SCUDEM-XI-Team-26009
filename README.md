@@ -1,3 +1,3 @@
 # SCUDEM XI Team 26009
 
-We are Participant in SCUDEM x COMAP 2026, Here is our result 
+This repository contains the source code, documentation, mathematical models, and presentation materials developed by **Team 26009** for the **SCUDEM XI 2026 (SIMIODE Challenge Using Differential Equations Modeling)** competition.
